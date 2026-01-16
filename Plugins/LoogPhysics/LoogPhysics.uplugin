@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "LoogPhysics",
+	"Description": "",
+	"Category": "Animation",
+	"CreatedBy": "LoogLong",
+	"CreatedByURL": "https://github.com/LoogLong",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EngineVersion": "5.7.0",
+	"Modules": [
+		{
+			"Name": "LoogPhysics",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"WhitelistPlatforms": [ "Win64"]
+		},
+		{
+			"Name": "LoogPhysicsEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [ "Win64"]
+		}
+	]
+}
