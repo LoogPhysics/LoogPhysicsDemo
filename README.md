@@ -14,6 +14,15 @@
 # 效果展示
 
 # GetStart
+## Case1 仅仅想要游玩一下
+直接拉取整个项目，并使用最新的Unreal5.7.1打开项目，然后点击play即可体验。
+
+## 想要在自己的项目中使用该插件
+1. 需要将本项目Plugins目录内的整个LoogPhysics文件夹copy到你自己项目的Plugins(注意：是项目的Plugins目录而不是引擎的Plugins)
+2. 如果你的引擎刚好是我编译完成的引擎版本(当前为5.7.1)那么你就可以直接运行。否则需要自行编译。（编译需要完整的UnrealEngine C++编译环境）。
+
+## 教学视频和文档
+TODO
 
 # 作者
 https://github.com/LoogLong
