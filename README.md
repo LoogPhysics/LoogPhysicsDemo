@@ -15,11 +15,14 @@
 
 # GetStart
 ## Case 1 仅仅想要游玩一下
-直接拉取整个项目，并使用最新的Unreal5.7.1打开项目，然后点击play即可体验。
+1. 直接拉取整个项目
+2. 下载我编译好的LoogPhysics.zip压缩包，将其解压后放到项目Plugins文件夹下覆盖已有的内容![alt text](ReadMeImages/image.png)
+![alt text](ReadMeImages/image-1.png)
+3. 使用最新的Unreal5.7.1打开项目，然后点击play即可体验。
 
 ## Case 2 想要在自己的项目中使用该插件
 1. 需要将本项目Plugins目录内的整个LoogPhysics文件夹copy到你自己项目的Plugins(注意：是项目的Plugins目录而不是引擎的Plugins)
-2. 如果你的引擎刚好是我编译完成的引擎版本(当前为5.7.1)那么你就可以直接运行。否则需要自行编译。（编译需要完整的UnrealEngine C++编译环境）。
+2. 如果你的引擎刚好是我编译完成的引擎版本(当前为5.7.1)，并且不希望本地编译，可以参照Case1中的步骤2~3将我编译好的二进制文件应用。否则需要自行编译。（编译需要完整的UnrealEngine C++编译环境）。
 
 ## 教学视频和文档
 TODO
